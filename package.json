@@ -1,0 +1,24 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "csp-header": "^5.1.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-favicon": "^2.0.1",
+    "express-handlebars": "^6.0.6",
+    "is-number": "^7.0.0",
+    "socket.io": "^4.5.1"
+  },
+  "keywords": [],
+  "description": ""
+}

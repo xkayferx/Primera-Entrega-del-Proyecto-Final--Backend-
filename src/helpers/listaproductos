@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Yu-gi-oh!! Card's Pack",
+		"price": 250,
+		"thumbnail": "https://img.yugioh-card.com/products_publish/eu/mvp1_sc/eu/es/images/mvp1_tuckbox_sp.jpg",
+		"description": "A pack of Yu-gi-oh!!'s cards",
+		"code": "132",
+		"timestamp": 1657029852387,
+		"stock": "005",
+		"id": 2
+	},
+	{
+		"title": "Pokemon Y",
+		"price": 500,
+		"thumbnail": "https://static.wikia.nocookie.net/pokemon/images/c/c4/Pokemon_Y_Version_Boxart.png/revision/latest?cb=20201120114053",
+		"description": "A Nintendo DS Game",
+		"code": "796",
+		"timestamp": 1657029853155,
+		"stock": "300",
+		"id": 3
+	},
+	{
+		"title": "Digivice",
+		"price": 900,
+		"thumbnail": "https://wikimon.net/images/thumb/c/c0/Digivice_collection.jpg/200px-Digivice_collection.jpg",
+		"description": "A Limited-Time-Edition Digivice",
+		"code": "967",
+		"timestamp": 1657029853883,
+		"stock": "10",
+		"id": 4
+	}
+]
